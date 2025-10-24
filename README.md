@@ -2,4 +2,6 @@
 
 Este archivo describe la funcionalidad del proyecto
 
-hjkjknknk
+### Introducción. 
+
+Este proyecto es de prueba
